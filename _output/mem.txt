@@ -1,3 +1,7 @@
-               total        used        free      shared  buff/cache   available
-Mem:           7.6Gi       506Mi       5.5Gi       2.7Mi       1.9Gi       7.1Gi
-Swap:             0B          0B          0B
+RANGE                                 SIZE  STATE REMOVABLE BLOCK
+0x0000000000000000-0x00000000bfffffff   3G online       yes  0-23
+0x0000000100000000-0x000000023fffffff   5G online       yes 32-71
+
+Memory block size:       128M
+Total online memory:       8G
+Total offline memory:      0B
